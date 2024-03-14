@@ -1,4 +1,5 @@
-﻿List<string> GenerateList()
+﻿List<string> res = new List<string>();
+List<string> GenerateList()
 {
     Random random = new Random();
     List<string> sp = new List<string>();
@@ -10,4 +11,12 @@
 
     return sp;
 }
+foreach (string elem in GenerateList())
+{
+    if (elem.Length <= 3)
+    {
+        res.Add(elem);
+    }
+}
 
+Console.WriteLine($"[{string.Join(", ", res)}]");
