@@ -1,0 +1,15 @@
+A:\обучение\repo\программа\bin\Debug\net8.0\repo.exe
+A:\обучение\repo\программа\bin\Debug\net8.0\repo.deps.json
+A:\обучение\repo\программа\bin\Debug\net8.0\repo.runtimeconfig.json
+A:\обучение\repo\программа\bin\Debug\net8.0\repo.dll
+A:\обучение\repo\программа\bin\Debug\net8.0\repo.pdb
+A:\обучение\repo\программа\obj\Debug\net8.0\repo.GeneratedMSBuildEditorConfig.editorconfig
+A:\обучение\repo\программа\obj\Debug\net8.0\repo.AssemblyInfoInputs.cache
+A:\обучение\repo\программа\obj\Debug\net8.0\repo.AssemblyInfo.cs
+A:\обучение\repo\программа\obj\Debug\net8.0\repo.csproj.CoreCompileInputs.cache
+A:\обучение\repo\программа\obj\Debug\net8.0\repo.sourcelink.json
+A:\обучение\repo\программа\obj\Debug\net8.0\repo.dll
+A:\обучение\repo\программа\obj\Debug\net8.0\refint\repo.dll
+A:\обучение\repo\программа\obj\Debug\net8.0\repo.pdb
+A:\обучение\repo\программа\obj\Debug\net8.0\repo.genruntimeconfig.cache
+A:\обучение\repo\программа\obj\Debug\net8.0\ref\repo.dll

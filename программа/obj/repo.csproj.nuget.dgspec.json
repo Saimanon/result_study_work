@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\обучение\\repo\\repo.csproj": {}
+    "A:\\обучение\\repo\\программа\\repo.csproj": {}
   },
   "projects": {
-    "A:\\обучение\\repo\\repo.csproj": {
+    "A:\\обучение\\repo\\программа\\repo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\обучение\\repo\\repo.csproj",
+        "projectUniqueName": "A:\\обучение\\repo\\программа\\repo.csproj",
         "projectName": "repo",
-        "projectPath": "A:\\обучение\\repo\\repo.csproj",
+        "projectPath": "A:\\обучение\\repo\\программа\\repo.csproj",
         "packagesPath": "C:\\Users\\guryl\\.nuget\\packages\\",
-        "outputPath": "A:\\обучение\\repo\\obj\\",
+        "outputPath": "A:\\обучение\\repo\\программа\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guryl\\AppData\\Roaming\\NuGet\\NuGet.Config"
